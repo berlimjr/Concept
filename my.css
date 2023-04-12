@@ -1,0 +1,17 @@
+.hovinho1:hover {
+    background-color: rgb(33, 35, 36);
+    cursor: pointer;
+    border-radius: 6px;
+}
+.inputb:focus {
+    outline: 0;
+    box-shadow: blue 0px 0px 10px 0px;
+}
+
+.border-x-2 {
+    border-left-width: 1px;
+    border-right-width: 1px ;
+}
+.hovinho2 {
+    cursor: pointer;
+}
